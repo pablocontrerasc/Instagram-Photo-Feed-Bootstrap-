@@ -1,0 +1,72 @@
+.col img{
+  width: 100%;
+  height: 100%;
+
+}
+
+a:link {
+  color: none;
+}
+nav{
+  background-color: gainsboro;
+}
+
+.row>* {
+  padding: 0;
+}
+
+
+.num{
+  margin:5px;
+  text-align: right;
+}
+
+.margen{
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+.border{
+  margin:0;
+}
+
+a:hover{
+  background-color: gainsboro;
+}
+
+#botn{
+  
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#letraInstagram{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2em;
+}
+
+#botn:hover{
+  background-color: gray;
+}
+
+#bk:hover{
+  background-color: white;
+}
+
+.titulo{
+  margin: 5px;
+}
+
+.ellipsis{
+  padding: 20px;
+  text-align:right;
+  
+}
+
+.comment{
+  padding: 20px;
+}
+
+.card-title{
+  margin-top: 20px;
+}
